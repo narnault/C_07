@@ -1,0 +1,4 @@
+void	inutile(void)
+{
+	return ;
+}
